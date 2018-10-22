@@ -9,6 +9,5 @@ By [Zerkvii](https://github.com/zerkvii/).
 
 
 ## Why this App
-**Z in the Wind** 
 -----
 I just wanna write something about my life and mark it as self-modifiacation
